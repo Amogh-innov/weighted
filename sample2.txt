@@ -1,0 +1,10 @@
+a,s,q,f,g,z
+s,a,d,x
+d,a,s,q,z
+h,v,s,d,f,z
+f,a,x,z
+g,s,d,a,h,f
+z,s,d,q
+x,a,s,d,f,z
+c,v,s,d,q
+v,z,x
